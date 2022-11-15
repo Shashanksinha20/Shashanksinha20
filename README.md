@@ -44,10 +44,11 @@
   height="207px"
 />
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Shashanksinha20&theme=default"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Shashanksinha20&theme=tokyonight"
     alt = "git-streak"
-    style = {{maxWidth : "92%", minHeight : "207px"}}
+    style = "width : 100%, min-height : 215px, marginRight : 25px"
   />
+  <br/>
 <img
   alt="ShashankSinha's Top Languages"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashanksinha20&theme=tokyonight"
