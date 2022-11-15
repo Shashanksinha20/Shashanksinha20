@@ -1,7 +1,9 @@
 ## Hi 👋 I'm Shashank Sinha
 - I'm a **Learner** | **Web Developer** | **Programmer**. 
 - I'm skilled at **MERN** based web app development, alongside upskilling my **data structure and algorithms** knowledge. 
-- Interested in **exploring new technologies**. 
+- Interested in **exploring new technologies**.
+- 🌱 I’m currently learning Full-Stack Web Development. 
+- See my portfolio at https://Shashanksinha20.github.io/
 <!-- - Checkout my [resume](https://drive.google.com/file/d/1LCu_MCYhcG5WTcRIIpPuKWfhgyjaiiAo/view?usp=sharing) -->
 
 <br />
