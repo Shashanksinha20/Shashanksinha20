@@ -42,7 +42,7 @@
 </a> -->
 <img
   alt="ShashankSinha's Github Stats"
-  src="https://github-readme-stats.vercel.app/api?username=Shashanksinha20&theme=tokyonight"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shashanksinha20&theme=tokyonight"
   height="207px"
 />
 <img
