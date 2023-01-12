@@ -53,7 +53,7 @@
   <br/>
 <img
   alt="ShashankSinha's Top Languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashanksinha20&theme=tokyonight"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shashanksinha20&theme=tokyonight"
   height="207px"
 />
 
