@@ -6,6 +6,8 @@
 - See my portfolio at https://Shashanksinha20.github.io/
 <!-- - Checkout my [resume](https://drive.google.com/file/d/1LCu_MCYhcG5WTcRIIpPuKWfhgyjaiiAo/view?usp=sharing) -->
 
+A competent and passionate MERN stack developer with hands on experience on industry relevant technologies. Strong problem-solving abilities and a passion for creating efficient and scalable solutions. Excellent communication and collaboration skills, enabling effective teamwork and client engagement.
+
 <br />
 
 ## :hammer_and_wrench: Skills / Interests
