@@ -23,7 +23,7 @@ A competent and passionate MERN stack developer with hands on experience on indu
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
   ![Node.js](https://img.shields.io/badge/node.js%20-%231572B6.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
-   ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)&nbsp;
+   ![GraphQL](https://rb.gy/ne0zvy)&nbsp;
 
 </div>
 
