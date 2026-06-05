@@ -13,26 +13,25 @@ A competent and passionate MERN stack developer with hands on experience on indu
 
 <br />
 <div>
-
+  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+  ![Node.js](https://img.shields.io/badge/node.js%20-%231572B6.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+  ![Golang](https://img.shields.io/badge/Go-007FFF?logo=Go&logoColor=white&style=for-the-badge)&nbsp;
+  ![Gin](https://img.shields.io/badge/Gin-%23323330?logo=Gin&logoColor=white&style=for-the-badge)&nbsp;
   ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
   ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
   ![ChakraUI](https://img.shields.io/badge/ChakraUI-%23404d59.svg?&style=for-the-badge&logo=chakraui&logoColor=white&backgroundColor=blue)&nbsp;
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-  ![Node.js](https://img.shields.io/badge/node.js%20-%231572B6.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
   ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
   ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
   ![Next JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
   ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)&nbsp;
   ![ShadCN](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)&nbsp;
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-  ![Golang](https://img.shields.io/badge/Go-007FFF?logo=Go&logoColor=white&style=for-the-badge)&nbsp;
-  ![Gin](https://img.shields.io/badge/Gin-%23323330?logo=Gin&logoColor=white&style=for-the-badge)&nbsp;
   ![Electron.js](https://img.shields.io/badge/-electron-F1C40F?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)&nbsp;
   
 </div>
