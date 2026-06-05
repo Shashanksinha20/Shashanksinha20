@@ -31,7 +31,7 @@ A competent and passionate MERN stack developer with hands on experience on indu
   ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)&nbsp;
   ![ShadCN](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)&nbsp;
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-  ![Golang](https://img.shields.io/badge/%20UI-007FFF?logo=Go&logoColor=white&style=for-the-badge)&nbsp;
+  ![Golang](https://img.shields.io/badge/Go-%20UI-007FFF?logo=Go&logoColor=white&style=for-the-badge)&nbsp;
   ![Gin](https://img.shields.io/badge/Gin-%23323330?logo=Gin&logoColor=white&style=for-the-badge)&nbsp;
   
 </div>
