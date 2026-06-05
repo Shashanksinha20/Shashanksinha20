@@ -13,6 +13,7 @@ A competent and passionate MERN stack developer with hands on experience on indu
 
 <br />
 <div>
+  
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
   ![Node.js](https://img.shields.io/badge/node.js%20-%231572B6.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
