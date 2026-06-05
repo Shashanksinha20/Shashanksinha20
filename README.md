@@ -1,11 +1,11 @@
 ## Hi 👋 I'm Shashank Sinha
-- I'm a **Learner** | **Web Developer** | **Programmer**. 
-- I'm skilled at **MERN** based web app development, alongside upskilling my **data structure and algorithms** knowledge. 
+- I'm a **Learner** | **Full Stack Developer** | **Programmer**. 
+- I'm skilled at **MERN** and Golang based web app development, alongside upskilling my **data structure and algorithms** knowledge. 
 - Interested in **exploring new technologies**. 
 - See my portfolio at https://Shashanksinha20.github.io/
 <!-- - Checkout my [resume](https://drive.google.com/file/d/1LCu_MCYhcG5WTcRIIpPuKWfhgyjaiiAo/view?usp=sharing) -->
 
-A competent and passionate MERN stack developer with hands on experience on industry relevant technologies. Strong problem-solving abilities and a passion for creating efficient and scalable solutions. Excellent communication and collaboration skills, enabling effective teamwork and client engagement.
+A competent and passionate Full Stack Developer with hands on experience on industry relevant technologies. Strong problem-solving abilities and a passion for creating efficient and scalable solutions. Excellent communication and collaboration skills, enabling effective teamwork and client engagement.
 
 <br />
 
