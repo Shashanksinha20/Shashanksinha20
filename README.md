@@ -82,9 +82,11 @@ A competent and passionate Full Stack Developer with hands on experience on indu
       src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
+  <!--
   <a href="https://shashanksinha20.github.io/" target="_blank">
     <img
       src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white"
     />
   </a>
+  -->
 </p>
